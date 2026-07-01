@@ -18,5 +18,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/akashic-contents/block-shooter.git"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "npm",
+      "version": ">=11.11.0",
+      "onFail": "error"
+    }
   }
 }
